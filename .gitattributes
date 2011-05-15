@@ -1,3 +1,4 @@
 .git-annex/*.log merge=union
 * annex.backend=SHA1
 * annex.numcopies=2
+.git-annex/*/*/*.log merge=union
